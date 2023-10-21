@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_hello_world"
+  site-url: "https://tixel.github.io/nbdev_hello_world"
+  description: "test nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/tixel/nbdev_hello_world"
